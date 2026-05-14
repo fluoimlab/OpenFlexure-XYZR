@@ -1,0 +1,19 @@
+# Docs and devs
+.diff/
+*.csv
+
+# Temp files
+*.FCBak
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.ipynb_checkpoints
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+*.egg-info/
+*.egg
